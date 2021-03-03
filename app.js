@@ -1,3 +1,6 @@
+//PROFESOR ESTE PROGRAMA SE CORRE EN LA CONSOLA
+//PONER ESTE COMANDO $ node app.js
+
 //Create variables for the domain
 
 let pronoun = ['the', 'our', 'this', 'a', '', 'that'];
